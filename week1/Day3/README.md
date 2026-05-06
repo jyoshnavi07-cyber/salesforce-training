@@ -1,14 +1,17 @@
-# Day 3
+# Day 2
 
 ## Topics Covered
 - Trailhead Playground Management
+- Salesforce Developer Overview
 
 ## What I Learned
-- Trailhead Playground is a personal Salesforce environment for practice
-- It allows safe testing without affecting real systems
-- Multiple playgrounds can be created and managed
-- It is used for hands-on challenges in Trailhead modules
+- Trailhead Playground is a personal practice environment in Salesforce
+- It allows safe experimentation without affecting real data
+- Salesforce Developer role involves building custom applications using tools like Apex and Lightning components
 
 ## Tasks Completed
 - Completed Trailhead Playground Management module
-- Explored playground setup and usage
+- Earned "Salesforce Developer: Quick Look" badge
+
+## Output
+(badge.png)
