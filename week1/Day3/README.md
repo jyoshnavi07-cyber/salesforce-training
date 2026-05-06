@@ -14,4 +14,4 @@
 - Earned "Salesforce Developer: Quick Look" badge
 
 ## Output
-(badge.png)
+badge.png
