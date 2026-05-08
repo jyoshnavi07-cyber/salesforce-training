@@ -1,2 +1,2 @@
 ## Week 1
-- Day 1: Setup and Introduction
+- Day 1: CRM Basics
