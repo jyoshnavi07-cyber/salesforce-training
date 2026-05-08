@@ -1,6 +1,6 @@
 # Day 1
 
-## What is CRM
+## CRM
 
 CRM stands for Customer Relationship Management.
 
