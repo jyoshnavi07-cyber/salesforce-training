@@ -39,7 +39,7 @@ An Opportunity represents a possible business deal or sales process.
 
 ## Business Workflow
 
-Lead → Contact → Opportunity → Customer
+Lead -> Contact -> Opportunity -> Customer
 
 1. A person first becomes a Lead when they show interest.
 2. After collecting proper details, the Lead becomes a Contact.
